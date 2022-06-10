@@ -25,8 +25,8 @@
   },
   "dependencies": {
     "@testing-library/dom": "^8.13.0",
-    "freemarker": "^2.0.1",
-    "jest": "26.6.3"
+    "jest": "26.6.3",
+    "setup-liferay-fragment-test": "^2.0.3"
   },
   "devDependencies": {
     "generator-liferay-fragments": "2.0.2"
