@@ -8,7 +8,7 @@ describe("test fragment", () => {
     };
     const mockNamespace = "mockNamespace";
 
-    setupLiferayFragmentTest(configuration, mockNamespace, done);
+    setupLiferayFragmentTest(__dirname, configuration, mockNamespace, done);
   });
 
   it("has 4 tab panel items", () => {

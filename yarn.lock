@@ -6339,10 +6339,10 @@ setprototypeof@1.2.0:
   resolved "https://registry.yarnpkg.com/setprototypeof/-/setprototypeof-1.2.0.tgz#66c9a24a73f9fc28cbe66b09fed3d33dcaf1b424"
   integrity sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==
 
-setup-liferay-fragment-test@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/setup-liferay-fragment-test/-/setup-liferay-fragment-test-2.0.3.tgz#737f8f15072f698c34e885cd0f116fe55c476f21"
-  integrity sha512-lDJWbaPRh9phYK7guPDV9jo8t5JvkcxehGv6/RWPvUJiSSsm//Fo6l5B/23kSYmu2QQAWi5RHmGLSGVX3i7D7A==
+setup-liferay-fragment-test@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/setup-liferay-fragment-test/-/setup-liferay-fragment-test-3.0.4.tgz#b2643b0991fbf9f906538a384c4eba64987c15ee"
+  integrity sha512-HJbmyQeHj85jCF/vFpwsrza3qkhhKZ/RqNWMfU5rQ/z4kdLQ9zyuppJSgZ00laXJivHZZMQbqDMrYJJhYpx57g==
   dependencies:
     freemarker "^2.0.1"
 
